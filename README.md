@@ -6,7 +6,11 @@ A responsive, search-enabled website to explore popular anime and manga titles w
 
 ## 🔗 Live Demo
 
-👉 [Click here to visit the live website](https://ros2024112.github.io/CHINI-24/)
+👉 [Visit the live website](https://ros2024112.github.io/CHINI-24/)
+
+## 📁 GitHub Project
+
+🔗 [View Source on GitHub](https://github.com/ROS2024112/CHINI-24)
 
 ---
 
